@@ -1,0 +1,13 @@
+URL 000webhost: https://nepalelection.000webhostapp.com/
+Admin Login:
+***********************************************
+Username: sujan
+Password: sujan
+
+
+URL: http://localhost/onlinevotingsystem/admin/
+***********************************************
+Admin Login:
+***********************************************
+Username: sujan
+Password: sujan
